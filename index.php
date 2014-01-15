@@ -1,7 +1,7 @@
 <?php
 echo "
 1st commit neeraj
-2nd commit
+2nd commik
 
 
 ";
